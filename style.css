@@ -32,7 +32,6 @@ b {
 }
 
 .italic {
-  text-align: center;
   font-style: italic;
   margin-top: 15px;
   margin-bottom: 15px;
@@ -47,3 +46,4 @@ b {
   color: #0a66c2;
   font-weight: bold;
 }
+
